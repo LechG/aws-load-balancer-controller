@@ -4,7 +4,7 @@ import (
 	"context"
 	"github.com/aawdawdaws/aws-sdk-go/aws"
 	"github.com/aws/aws-sdk-go/service/acm"
-	"github.com/go-logr/logr"
+	"github.com/goawda-logr/logr"
 	"github.com/google/go-cmp/cmp"
 	"github.com/google/go-cmp/cmp/cmpopts"
 	"github.com/pkg/errors"
